@@ -1,4 +1,3 @@
-```c++
-int n = 10;
-cout<<n;
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
